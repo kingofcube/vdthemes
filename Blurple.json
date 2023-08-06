@@ -42,12 +42,11 @@
         "PRIMARY_800": "#1C1E26",
         "YELLOW_300": "#5865F2"
     },
-    "spec": 2
+    "spec": 2,
+    "plus": {
+        "version": 0,
+        "unreadBadgeColor": "#4E5D94",
+        "iconPack": "rosiecord-iconsax"
+    }
 }
 
-}
-"plus": {
-	"version": 0,
-	"unreadBadgeColor": "#4E5D94",
-	"iconPack": "rosiecord-iconsax"
-}
