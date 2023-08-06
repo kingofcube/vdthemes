@@ -47,7 +47,7 @@
         "version": 0,
         "unreadBadgeColor": "#4E5D94",
         "customOverlays": true,
-        "iconPack": "rosiecord-plumpy"
+        "iconpack": "rosiecord-plumpy"
     }
 }
 
