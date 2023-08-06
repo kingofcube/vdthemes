@@ -46,7 +46,8 @@
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#4E5D94",
-        "iconPack": "rosiecord-iconsax"
+        "customOverlays": true,
+        "iconPack": "rosiecord-plumpy"
     }
 }
 
