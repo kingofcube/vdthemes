@@ -45,7 +45,7 @@
     "spec": 2,
     "plus": {
         "version": 0,
-        "unreadBadgeColor": "#4E5D94",
+        "unreadBadgeColor": "#7289DA",
         "iconpack": "rosiecord-plumpy"
     }
 }
