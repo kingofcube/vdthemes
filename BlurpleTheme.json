@@ -36,6 +36,7 @@
         "SPOILER_REVEALED_BACKGROUND": ["#1C1E26"]
     },
     "rawColors": {
+        "PRIMARY_400": "#7289DA",
         "PRIMARY_600": "#232530",
         "PRIMARY_630": "#1C1E26",
         "PRIMARY_700": "#1C1E26",
@@ -47,7 +48,17 @@
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#7289DA",
-        "iconpack": "rosiecord-plumpy"
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+		"ic_new_pins": [
+			"#4E5D94",
+			"#4E5D94",
+			"#4E5D94",
+			"#4E5D94"
+		],
+		"emoji": [
+			"#4E5D94"
+        ]
         
     }
 }
