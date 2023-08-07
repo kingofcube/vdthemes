@@ -48,17 +48,7 @@
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#7289DA",
-        "iconpack": "rosiecord-plumpy",
-        "icons": {
-		"ic_new_pins": [
-			"#4E5D94",
-			"#4E5D94",
-			"#4E5D94",
-			"#4E5D94"
-		],
-		"emoji": [
-			"#4E5D94"
-        ]
+        "iconpack": "rosiecord-plumpy"
         
     }
 }
