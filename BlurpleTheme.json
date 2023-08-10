@@ -44,11 +44,11 @@
         "YELLOW_300": "#5865F2",
         "BRAND_500": "#7289DA"
     },
-    "spec": 2,
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#7289DA",
-        "iconpack": "rosiecord-plumpy"
+        "iconpack": "rosiecord-plumpy",
+        "spec": 2,
         
     }
 }
