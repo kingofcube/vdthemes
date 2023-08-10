@@ -1,5 +1,5 @@
 {
-    "name": "A Deep Commitment to Blurple but its edited with custom icons",
+    "name": "A Deep Commitment to Blurple [Edited with custom icons]",
     "description": "A darker theme with blurple hues.",
     "authors": [
         {
@@ -44,11 +44,11 @@
         "YELLOW_300": "#5865F2",
         "BRAND_500": "#7289DA"
     },
+    "spec": 2,
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#7289DA",
-        "iconpack": "rosiecord-plumpy",
-        "spec": 2,
+        "iconpack": "rosiecord-plumpy"
         
     }
 }
