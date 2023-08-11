@@ -36,7 +36,7 @@
         "TEXT_NORMAL": ["#cdd1f7"],
         "TEXT_MUTED": ["#9ea3d9"],
         "TEXT_LINK": ["#7289DA"],
-        "TEXT_DANGER": ["4E5D94"]
+        "TEXT_DANGER": ["4E5D94"],
         "SPOILER_HIDDEN_BACKGROUND": ["#1C1E26"],
         "SPOILER_REVEALED_BACKGROUND": ["#1C1E26"]
     },
