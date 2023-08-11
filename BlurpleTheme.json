@@ -23,7 +23,7 @@
         "BACKGROUND_NESTED_FLOATING": ["#2E303E"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#7289DA"],
         "BACKGROUND_MODIFIER_SELECTED": ["#7289da55"],
-        "BACKGROUND_MENTIONED": ["#7289DA"],
+        "BACKGROUND_MENTIONED": ["#4E5D94"],
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["#232530"],
         "CHAT_BACKGROUND": ["#2E303E"],
         "INTERACTIVE_ACTIVE": ["#cdd1f7"],
@@ -36,6 +36,7 @@
         "TEXT_NORMAL": ["#cdd1f7"],
         "TEXT_MUTED": ["#9ea3d9"],
         "TEXT_LINK": ["#7289DA"],
+        "TEXT_DANGER": ["4E5D94"]
         "SPOILER_HIDDEN_BACKGROUND": ["#1C1E26"],
         "SPOILER_REVEALED_BACKGROUND": ["#1C1E26"]
     },
