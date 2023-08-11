@@ -4,7 +4,10 @@
     "authors": [
         {
             "name": "Beef",
-            "id": "257109471589957632"
+            "id": "257109471589957632",
+            
+            "name": "TheBisexual",
+            "id": "989197238687387709"
         }
     ],
     "semanticColors": {
@@ -17,9 +20,9 @@
         "BACKGROUND_MOBILE_SECONDARY": ["#232530"],
         "BACKGROUND_MOBILE_TERTIARY": ["#1C1E26"],
         "BACKGROUND_NESTED_FLOATING": ["#2E303E"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#5865F255"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#7289DA"],
         "BACKGROUND_MODIFIER_SELECTED": ["#7289da55"],
-        "BACKGROUND_MENTIONED": ["#5865F222"],
+        "BACKGROUND_MENTIONED": ["#7289DA"],
         "CHAT_INPUT_CONTAINER_BACKGROUND": ["#232530"],
         "CHAT_BACKGROUND": ["#2E303E"],
         "INTERACTIVE_ACTIVE": ["#cdd1f7"],
@@ -31,7 +34,7 @@
         "HEADER_SECONDARY": ["#c9cdf0"],
         "TEXT_NORMAL": ["#cdd1f7"],
         "TEXT_MUTED": ["#9ea3d9"],
-        "TEXT_LINK": ["#5865F2"],
+        "TEXT_LINK": ["#7289DA"],
         "SPOILER_HIDDEN_BACKGROUND": ["#1C1E26"],
         "SPOILER_REVEALED_BACKGROUND": ["#1C1E26"]
     },
@@ -47,7 +50,7 @@
     "spec": 2,
     "plus": {
         "version": 0,
-        "unreadBadgeColor": "#7289DA",
+        "unreadBadgeColor": "#4E5D94",
         "iconpack": "rosiecord-plumpy"
         
     }
