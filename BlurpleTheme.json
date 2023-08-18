@@ -53,7 +53,7 @@
     "plus": {
         "version": 0,
         "unreadBadgeColor": "#4E5D94",
-"iconpacks": "md3"
+        "iconpack": "md3"
 
     }
 }
