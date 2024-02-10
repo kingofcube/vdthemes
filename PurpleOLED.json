@@ -12,7 +12,7 @@
         }
     ],
     "semanticColors": {
-	    "MENTION_BACKGROUND": [
+	    "MENTION_FOREGROUND": [
 		    "#BF40BF"
 	    ],
 	    "CARD_PRIMARY_BG": [
