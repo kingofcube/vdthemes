@@ -6,11 +6,10 @@
             "name": "King Cube",
             "id": "989197238687387709"
         },
+	        "spec": 2,
       "background": {
 		"blur": 0.0,
 		"url": "https://i.imgvibe.com/2024/02/10/1000134661.png",
 		"alpha": 0.45
-	},
-    "spec": 2
 }
 }
