@@ -47,7 +47,8 @@
         "PRIMARY_700": "#1C1E26",
         "PRIMARY_800": "#1C1E26",
         "YELLOW_300": "#7289DA",
-        "BRAND_500": "#7289DA"
+        "BRAND_500": "#7289DA",
+        "RED_400": "#4E5D94"
     },
     "spec": 2,
     "plus": {
