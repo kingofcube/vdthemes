@@ -12,6 +12,9 @@
         }
     ],
     "semanticColors": {
+	    "INTERACTIVE_ACTIVE": [
+            "#BF40BF"
+        ],
 	    "INTERACTIVE_NORMAL": [
             "#ffffff"
         ],
