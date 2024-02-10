@@ -12,12 +12,10 @@
         }
     ],
     "semanticColors": {
-	    "INTERACTIVE_ACTIVE": [
-            "#BF40BF"
+	    "CARD_PRIMARY_BG": [
+            "#000000"
         ],
-	    "INTERACTIVE_NORMAL": [
-            "#ffffff"
-        ],
+	    
         "HEADER_PRIMARY": [
             "#ffffff"
         ],
@@ -40,7 +38,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#BF40BF"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
