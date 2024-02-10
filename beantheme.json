@@ -1,0 +1,15 @@
+{
+    "name": "Skweel.",
+    "description": "Beans, beans let me give you a hand - or two.",
+    "authors": [
+        {
+            "name": "King Cube",
+            "id": "131929165292240896"
+        }
+      "background": {
+		"blur": 0.0,
+		"url": "https://i.imgvibe.com/2024/02/10/1000134661.png",
+		"alpha": 0.45
+	},
+    "spec": 2
+}
