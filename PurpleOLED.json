@@ -127,5 +127,9 @@
     "spec": 2,
     "background": {
         "color": "#000000"
+    },
+    "plus": {
+	"version": 0,
+	"unreadBadgeColor": "#BF40BF"
     }
 }
