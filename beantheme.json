@@ -9,22 +9,22 @@
     ],
 "semanticColors": {
 	    "BACKGROUND_TERTIARY": [
-		    "#0F1670"
+		    "#000060"
 	    ],
 	    "BACKGROUND_PRIMARY": [
-		    "#0F1670"
+		    "#000060"
 	    ],
 	"BACKGROUND_SECONDARY": [
-		    "#0F1670"
+		    "#000060"
 	    ],
 	"BACKGROUND_MOBILE_PRIMARY": [
-		    "#0F1670"
+		    "#000060"
 	    ],
 	"CHAT_BACKGROUND": [
-		    "#0F1670"
+		    "#000060"
 	    ],
 	    "BACKGROUND_MOBILE_SECONDARY": [
-		    "#0F1670"
+		    "#000060"
 	    ]
 },
             "spec": 2,
