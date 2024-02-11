@@ -3,13 +3,9 @@
     "description": "WHY IS EVERYTHING RED",
     "authors": [
         {
-            "name": "Wizzy#0211",
-            "id": "715443625580036128"
-        },
-{
             "name": "King_Cube",
             "id": "989197238687387709"
-        }
+	}
     ],
     "semanticColors": {
 	    "BACKGROUND_MENTIONED": [
@@ -22,18 +18,6 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#BF40BF"
-        ],
-        "TEXT_NORMAL": [
-            "#ffffff"
-        ],
-        "TEXT_MUTED": [
-            "#BF40BF"
-        ],
-        "TEXT_LINK": [
-            "#BF40BF"
-        ],
-        "TEXT_DANGER": [
             "#BF40BF"
         ],
         "INTERACTIVE_NORMAL": [
