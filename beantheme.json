@@ -14,6 +14,12 @@
 	    "BACKGROUND_PRIMARY": [
 		    "#000060"
 	    ],
+	"BG_BASE_PRIMARY": [
+		    "#000060"
+	    ],
+	"CARD_PRIMARY_BG": [
+		    "#000060"
+	    ],
 	"BACKGROUND_SECONDARY": [
 		    "#000060"
 	    ],
