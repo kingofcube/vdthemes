@@ -60,16 +60,10 @@
         "BACKGROUND_ACCENT": [
             "#BF40BF"
         ],
-        "BACKGROUND_FLOATING": [
-            "#000000"
-        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
@@ -88,7 +82,7 @@
             "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
+            "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#999999"
