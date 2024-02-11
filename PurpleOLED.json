@@ -147,6 +147,7 @@
     },
     "plus": {
 	"version": 0,
-	"unreadBadgeColor": "#BF40BF"
+	"unreadBadgeColor": "#BF40BF",
+	    "iconpack": "md3"
     }
 }
