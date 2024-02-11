@@ -33,6 +33,9 @@
 		    "#000060"
 	    ]
 },
+	"rawColors": {
+        "PLUM22": "#000060"
+	},
             "spec": 2,
       "background": {
         "blur": 0.0,
