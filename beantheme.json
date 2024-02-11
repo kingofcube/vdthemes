@@ -7,6 +7,14 @@
             "id": "989197238687387709"
         }
     ],
+"semanticColors": {
+	    "BACKGROUND_TERTIARY": [
+		    "#000000FF"
+	    ],
+	    "BACKGROUND_MOBILE_SECONDARY": [
+		    "#000000FF"
+	    ]
+},
             "spec": 2,
       "background": {
         "blur": 0.0,
