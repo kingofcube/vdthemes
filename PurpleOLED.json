@@ -12,9 +12,6 @@
         }
     ],
     "semanticColors": {
-	    "BACKGROUND_MENTIONED": [
-		    "#BF40BF"
-	    ],
 	    "CARD_PRIMARY_BG": [
             "#000000"
         ],
