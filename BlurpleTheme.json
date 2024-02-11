@@ -12,6 +12,7 @@
         }
     ],
     "semanticColors": {
+        "CARD_PRIMARY_BG": ["#232530"],
         "BACKGROUND_PRIMARY": ["#2E303E"],
         "BACKGROUND_SECONDARY": ["#232530"],
         "BACKGROUND_SECONDARY_ALT": ["#2E303E"],
