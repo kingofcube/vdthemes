@@ -123,6 +123,6 @@
     },
     "plus": {
 	"version": 0,
-	"unreadBadgeColor": "#FF0000"
+	"unreadBadgeColor": "#FFFF00"
     }
 }
