@@ -15,7 +15,7 @@
             "#FF0000"
         ],
         "HEADER_PRIMARY": [
-            "#FF0000"
+            "#FFFF00"
         ],
         "HEADER_SECONDARY": [
             "#FF0000"
@@ -44,9 +44,6 @@
         "BACKGROUND_ACCENT": [
             "#FF0000"
         ],
-        "BACKGROUND_FLOATING": [
-            "#FF0000"
-        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#FF0000"
         ],
@@ -71,9 +68,6 @@
         "SPOILER_HIDDEN_BACKGROUND": [
             "#FF0000"
         ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
-        ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#999999"
         ],
@@ -86,6 +80,10 @@
         "TEXT_LINK": [
             "#FFFF00"
         ],
+"TEXT_NORMAL": [
+            "#FFFF00"
+        ],
+
         "CHANNEL_ICON": [
             "#FFFF00"
         ]
