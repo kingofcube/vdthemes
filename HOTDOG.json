@@ -21,10 +21,10 @@
             "#FF0000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FF0000"
+            "#FFFF00"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
