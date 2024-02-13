@@ -83,7 +83,9 @@
 "TEXT_NORMAL": [
             "#FFFFFF"
         ],
-
+	"TEXT_MUTED": [
+            "#FFFF00"
+        ],
         "CHANNEL_ICON": [
             "#FFFF00"
         ]
