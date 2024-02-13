@@ -1,5 +1,5 @@
 {
-    "name": "R E D",
+    "name": "Hot Dog Stand",
     "description": "WHY IS EVERYTHING RED",
     "authors": [
         {
@@ -81,7 +81,7 @@
             "#FFFF00"
         ],
 "TEXT_NORMAL": [
-            "#FFFF00"
+            "#FFFFFF"
         ],
 
         "CHANNEL_ICON": [
