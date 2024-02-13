@@ -69,7 +69,7 @@
             "#FF0000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#999999"
+            "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
             "#FF0000"
@@ -84,6 +84,9 @@
             "#FFFFFF"
         ],
 	"TEXT_MUTED": [
+            "#000000"
+        ],
+	    "TEXT_ACTIVE": [
             "#FFFF00"
         ],
         "CHANNEL_ICON": [
