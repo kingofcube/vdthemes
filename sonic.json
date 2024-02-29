@@ -1,0 +1,46 @@
+{
+    "name": "Sonic's Pain.",
+    "description": "Help.",
+    "authors": [
+        {
+            "name": "King Cube",
+            "id": "989197238687387709"
+        }
+    ],
+"semanticColors": {
+	    "BACKGROUND_TERTIARY": [
+		    "#000000"
+	    ],
+	    "BACKGROUND_PRIMARY": [
+		    "#000000"
+	    ],
+	"BG_BASE_PRIMARY": [
+		    "#000000"
+	    ],
+	"CARD_PRIMARY_BG": [
+		    "#000000"
+	    ],
+	"BACKGROUND_SECONDARY": [
+		    "#000000"
+	    ],
+	"BACKGROUND_MOBILE_PRIMARY": [
+		    "#000000"
+	    ],
+	"CHAT_BACKGROUND": [
+		    "#000000"
+	    ],
+	    "BACKGROUND_MOBILE_SECONDARY": [
+		    "#000000"
+	    ]
+},
+	"rawColors": {
+        "PRIMARY_600": "#000000",
+	"PRIMARY_660": "#000000"
+	},
+            "spec": 2,
+      "background": {
+        "blur": 0.0,
+        "url": "https://i.imgvibe.com/2024/02/29/1000135801.jpg",
+        "alpha": 0.45
+       }
+}
